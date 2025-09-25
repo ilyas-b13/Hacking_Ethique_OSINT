@@ -12,4 +12,4 @@ Le projet était divisé en **deux parties** :
 2) Effectuer de la **reconnaissance passive** sur **l'université Aix-Marseille**, en utilisant les outils **OSINT**.
 
 **Rendu final** : [📄 Rapport sur la phase de reconnaissance passive (PDF)](rapport_reconnaissance_passive_université_Aix-Marseille.pdf)
-Le rapport a été transféré, par le biais du tuteur du projet, au service informatique de l'université.
+Le rapport a été transféré, par le biais du tuteur du projet, au **service informatique** de l'université.
