@@ -9,7 +9,7 @@ Le projet était divisé en deux parties :
    - Le hacking éthique.  
    - La reconnaissance passive.
 
-3) Effectuer de la reconnaissance passive sur l'université Aix-Marseille, en utilisant les outils OSINT.
+2) Effectuer de la reconnaissance passive sur l'université Aix-Marseille, en utilisant les outils OSINT.
 
 Rendu final : [📄 Rapport sur la phase de reconnaissance passive (PDF)](rapport_reconnaissance_passive_université_Aix-Marseille.pdf)
 
