@@ -21,17 +21,17 @@ Ce rapport contient toutes les **informations** sur l'université Aix-Marseille 
 
 ### Compétences théoriques
 
-- Compréhension globale du **hacking éthique** et des **différentes étapes** du **pentest**.
-- Connaissances des différents **outils OSINT**.
+- Compréhension globale du hacking éthique et des **différentes étapes du pentest**.
+- Connaissances des différents **outils** OSINT.
 
 ### Compétences techniques
 
 - Mise en oeuvre de **reconnaissance passive manuelle** (LinkedIn, réseaux sociaux, WHOIS, dig, etc).
-- Utilisation d'**outils** et **plateformes OSINT** (DNSDumpster, Shodan, theHarvester, IntelligenceX, Maltego, etc) en mode consultation passive.
+- Utilisation d'**outils** et **plateformes** OSINT (DNSDumpster, Shodan, theHarvester, IntelligenceX, Maltego, etc) en mode consultation passive.
 
 ### Compétences opérationnelles
 
-- **Analyse** et **priorisation** de la **surface d'exposition**.
-- Rédaction de **comptes-rendus hebdomadaires** de réunions.
-- Rédaction d'un rapport structuré avec **preuves publiques** et **recommandations** (issues du **guide d'hygiène informatique** de l'**ANSSI**).
-- Application de **bonnes pratiques éthiques** (aucune **reconnaissance active** ni interaction **intrusive**, **anonymisation** des informations sensibles dans le rapport final).
+- Analyse et **priorisation** de la **surface d'exposition**.
+- Rédaction de comptes-rendus hebdomadaires de réunions.
+- Rédaction d'un rapport structuré avec **preuves publiques** et recommandations (issues du **guide d'hygiène informatique** de l'ANSSI).
+- Application de bonnes pratiques éthiques (aucune **reconnaissance active** ni interaction intrusive, **anonymisation** des informations sensibles dans le rapport final).
