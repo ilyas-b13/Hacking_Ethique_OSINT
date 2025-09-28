@@ -6,7 +6,7 @@
 
 Le projet était divisé en **deux parties** :
 
-1) Faire des présentations d'une durée de 50 minutes, respectivement sur :  
+1) Faire des présentations d'une durée de 50 minutes sur :  
    - L'état de la cybercriminalité 2024-2025.  
    - Le hacking éthique.  
    - La reconnaissance passive.
@@ -28,7 +28,7 @@ Ce rapport contient toutes les **informations** sur l'université Aix-Marseille 
 
 ### Compétences techniques
 
-- Mise en oeuvre de **reconnaissance passive manuelle** (LinkedIn, réseaux sociaux, WHOIS, dig, etc).
+- Mise en œuvre de **reconnaissance passive manuelle** (LinkedIn, réseaux sociaux, `WHOIS`, `dig`, etc).
 - Utilisation d'**outils** et **plateformes** OSINT (DNSDumpster, Shodan, theHarvester, IntelligenceX, Maltego, etc).
 
 ### Compétences opérationnelles
