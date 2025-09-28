@@ -22,7 +22,7 @@ Ce rapport contient toutes les **informations** sur l'université Aix-Marseille 
 ### Compétences théoriques
 
 - Compréhension globale du **hacking éthique** et des **différentes étapes** du **pentest**.
-- Connaissances des différents outils OSINT.
+- Connaissances des différents **outils OSINT**.
 
 ### Compétences techniques
 
